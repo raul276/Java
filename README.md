@@ -1,1 +1,0 @@
-def permiso_autorisacion()
