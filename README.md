@@ -1,0 +1,1 @@
+def permiso_autorisacion()
